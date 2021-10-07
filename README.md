@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### ☕ Coffee-to-code converter 💻
 
 With every line of code, I strive to make the web a better place. 🌐
 
