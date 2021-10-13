@@ -26,4 +26,7 @@ With every line of code, I strive to make the web a better place. 🌐
 <br />
 <br />
 
+[![wakatime](https://wakatime.com/badge/user/b39df5eb-6ab8-4234-92a5-e1d54a855fe3.svg)](https://wakatime.com/@b39df5eb-6ab8-4234-92a5-e1d54a855fe3)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chewmunyoke&show_icons=true&theme=tokyonight)
